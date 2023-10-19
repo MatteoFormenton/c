@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int ControlloPrimi(int a)
-{
+{ 
 int meta=a/2;
 int cnt=0;
 for(int i=1;i<=meta;i++)

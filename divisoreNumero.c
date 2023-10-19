@@ -1,6 +1,6 @@
 #include <stdio.h>
 //es 1
-void main()
+void main() 
 {
 int n1;
 

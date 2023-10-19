@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main ()
 {
-int ipotenusa=0;
+int ipotenusa=0; 
 
 
 printf("Inserisci l'ipotenusa: ");
